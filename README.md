@@ -1,7 +1,7 @@
 # 📚 Awesome Weak-to-Strong Generalization
 
 
-<img width="1024" height="572" alt="image" src="assets/IMG_1.png" />
+<img width="1024" height="572" alt="image" src="assets/IMG_2.png" />
 A curated collection of papers, resources, and insights on **Weak-to-Strong Generalization (W2SG)** in large models.
 
 
